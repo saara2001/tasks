@@ -1,0 +1,28 @@
+
+.rapper {
+        border: solid;
+        color: darkred;
+        background-color: bisque;
+        padding: 20px;
+        height: 400px;
+        width: 50%;
+        }
+
+.boximg {
+        border: solid;
+        color: darkgoldenrod;
+        margin: 20px;
+        height: 70px;
+        width: 40%;
+        object-fit: cover;
+        }
+
+.boxp {
+    border: dotted;
+    color: darkgoldenrod;
+    background-color: yellow;
+    width: 150px;
+    height: 110px;
+    overflow: scroll;
+    }
+  
